@@ -1,0 +1,63 @@
+
+
+.container{
+
+    width: 460px;
+}
+
+div>div{
+    margin-top:10px
+}
+
+.input-group{
+    height: 25px;
+    width: 200px;
+    font: 15px arial, helvetica, sans-serif;
+    
+}
+
+.input-group2{
+    height: 25px;
+    width: 450px;
+    font: 15px arial, helvetica, sans-serif;
+}
+.second{
+    margin-left: 40px;
+}
+
+.last-div{
+    display:flex
+}
+
+
+
+p{
+    text-align: center;
+    font:30px  bold;
+    margin:0;
+
+}
+
+.text{
+    font: 15px arial, helvetica, sans-serif;
+    text-align: left;
+}
+
+.divspan{
+    background-color:blue;
+    font:15px;
+    color:white;
+}
+
+.btn{
+    height: 25px;
+    width: 210px;
+    background-color:rgb(93, 93, 236);
+    font:15ox bold;
+    color:white;
+}
+
+.btn2{
+    margin-left: 40px;
+    background-color:rgb(43, 224, 43);
+}
